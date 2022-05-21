@@ -1,3 +1,7 @@
 # bd-plugins-pack
 
-- _**Pack de plugins do BetterDiscord**_
+- _**Pack de plugins para o BetterDiscord**_
+
+# Lista dos Plugins
+
+- 
